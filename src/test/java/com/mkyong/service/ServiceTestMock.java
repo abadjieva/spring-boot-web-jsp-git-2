@@ -42,7 +42,7 @@ import com.mkyong.dao.StatusEnum;
 //@ActiveProfiles("testing")
 
 
-// Iva Abadjieva 26.07.2020...
+// Iva Abadjieva 26.07.2020 Abend
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = { SpringBootWebApplication.class })
 //@DataJpaTest
