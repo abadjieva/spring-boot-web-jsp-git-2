@@ -43,6 +43,7 @@ import com.mkyong.dao.StatusEnum;
 
 
 // Iva Abadjieva 26.07.2020 Abend - > 27.07 Tag
+// Aend3
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = { SpringBootWebApplication.class })
 //@DataJpaTest
