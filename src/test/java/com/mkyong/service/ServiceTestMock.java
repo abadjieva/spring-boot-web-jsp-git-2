@@ -42,7 +42,7 @@ import com.mkyong.dao.StatusEnum;
 //@ActiveProfiles("testing")
 
 
-// Iva Abadjieva 26.07.2020 Abend 
+// Iva Abadjieva 26.07.2020 Abend User 20
 //               27.07.2020 Tag
 
 @RunWith(SpringRunner.class)
