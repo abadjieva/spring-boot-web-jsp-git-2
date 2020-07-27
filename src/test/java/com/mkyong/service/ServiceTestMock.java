@@ -43,8 +43,9 @@ import com.mkyong.dao.StatusEnum;
 
 
 
-// Iva Abadjieva 26.07.2020 Abend aus User20
-//               27.07.2020 Tag
+
+// Iva Abadjieva 27.07.2020 aus User20
+
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = { SpringBootWebApplication.class })
