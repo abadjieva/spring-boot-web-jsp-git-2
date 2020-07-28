@@ -44,7 +44,8 @@ import com.mkyong.dao.StatusEnum;
 
 
 
-// Iva Abadjieva 27.07.2020 aus User20
+// Test 28.07.2020 aus User20
+// Iva Abadjieva
 
 
 @RunWith(SpringRunner.class)
