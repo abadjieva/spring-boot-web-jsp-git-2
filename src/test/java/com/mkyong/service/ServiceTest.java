@@ -43,6 +43,7 @@ import com.mkyong.dao.StatusEnum;
 
 //TEST 27.07.2020 USER20
 //Iva Abadjieva
+//Altenkunstadt 96264
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = { SpringBootWebApplication.class })
